@@ -21,6 +21,11 @@
             "UnauthRoleName": "test-amplify-master-20191122154348-unauthRole",
             "StackName": "test-amplify-master-20191122154348",
             "StackId": "arn:aws:cloudformation:eu-west-1:209272754517:stack/test-amplify-master-20191122154348/7e96ab60-0d36-11ea-8c5d-02ee8e94a71a"
+        },
+        "categories": {
+            "auth": {
+                "testamplifye1727c1a": {}
+            }
         }
     }
 }
